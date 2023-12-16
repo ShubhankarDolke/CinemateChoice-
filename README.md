@@ -10,6 +10,11 @@
 
 Welcome to the Movie Recommendation System, a project developed using Java and Object-Oriented Programming (OOP) principles. This intelligent recommendation engine analyzes user behavior and preferences to generate personalized movie recommendations.
 
+Run this project HERE[https://www.dukelearntoprogram.com//capstone/recommender.php?id=xqsLtSbzOkCgjA]!
+The interface is offered by Duke University.
+
+I recommend movies based on the similarity of ratings the user gave and those of professional raters gave on IDMB, which is to say, you are more likely to share taste with the raters who rate movies like you do. Then what movies to be recommeded are those the similar raters think very highly of.
+
 ## Features
 
 - **Intelligent Recommendation Engine**: Our system leverages advanced recommendation algorithms to analyze user data and preferences.
