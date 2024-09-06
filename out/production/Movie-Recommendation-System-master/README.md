@@ -50,14 +50,3 @@ Contributions to this project are welcome! If you have ideas for improvements or
 
 5. Create a pull request on the original repository.
 
-
-## Contact
-
-For any questions or inquiries, feel free to contact us via GitHub or email:
-
-- GitHub: [GitHub](https://github.com/Prathmesh311)
-- Email: prathmesh.bhondave2@gmail.com
-
-We appreciate your interest in our Movie Recommendation System and look forward to your contributions!
-
-Enjoy discovering new movies tailored just for you!
